@@ -7,7 +7,7 @@
     - A statement about a resource, in the form `Subject-Predicate-Object`
     - A typical triple
 
-![Typical Triple](https://g.gravizo.com/source/svg?https%3A%2F%2Fraw.githubusercontent.com%2FMBetters%2Favatar101%2Fmaster%2Fgraphs%2Ftypical_triple.gv)
+![Typical Triple](https://g.gravizo.com/source?https%3A%2F%2Fraw.githubusercontent.com%2FMBetters%2Favatar101%2Fmaster%2Fgraphs%2Ftypical_triple.gv)
 
 ## Namespaces
 - [Example Industry Standard Namespace](http://www.w3.org/2001/XMLSchema#)
