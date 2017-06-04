@@ -1,1 +1,0 @@
-- Make a pre-commit hook that automatically reformats dot graphs
