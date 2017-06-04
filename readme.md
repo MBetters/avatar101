@@ -1,3 +1,5 @@
+# Avatar 101
+
 ## Resource Description Framework (RDF)
 - [System Resource](https://en.wikipedia.org/wiki/System_resource)
     - A physical or virtual object in a system
