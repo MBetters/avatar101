@@ -7,6 +7,8 @@
 
 ![Typical Triple](https://g.gravizo.com/source/svg?https%3A%2F%2Fraw.githubusercontent.com%2FMBetters%2Favatar101%2Fmaster%2Fgraphs%2Ftypical_triple.dot)
 
+https://raw.githubusercontent.com/MBetters/avatar101/master/graphs/typical_triple.dot
+
 # Namespaces
 - [Example Industry Standard Namespace](http://www.w3.org/2001/XMLSchema#)
 - [Example Unimplemented Namespace](http://www.cubrc.org/avatar#)
