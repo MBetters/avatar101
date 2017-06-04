@@ -3,7 +3,7 @@
     - A physical or virtual object in a system
 - [Semantic Triple](https://en.wikipedia.org/wiki/Semantic_triple)
     - A statement about a resource, in the form `Subject-Predicate-Object`
-    - A typical triple ![Typical Triple](https://g.gravizo.com/source/svg?https://github.com/MBetters/avatar101/graphs/typical_triple.dot)
+    - A typical triple ![Typical Triple](https://g.gravizo.com/source/svg?https%3A%2F%2Fgithub.com%2FMBetters%2Favatar101%2Fgraphs%2Ftypical_triple.dot)
 
 # Namespaces
 - [Example Industry Standard Namespace](http://www.w3.org/2001/XMLSchema#)
