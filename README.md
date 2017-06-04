@@ -4,6 +4,7 @@
 - [Semantic Triple](https://en.wikipedia.org/wiki/Semantic_triple)
     - A statement about a resource, in the form `Subject-Predicate-Object`
     - Typical visualization
+
 ![Alt text](https://g.gravizo.com/svg?
   digraph G {
     aize ="4,4";
