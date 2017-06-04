@@ -5,8 +5,7 @@
     - A statement about a resource, in the form `Subject-Predicate-Object`
     - Typical visualization
 
-![Alt text](https://g.gravizo.com/svg?
-digraph G {
+![Alt text](https://g.gravizo.com/svg?digraph G {
   aize ="4,4";
   main [shape=box];
   main -> parse [weight=8];
